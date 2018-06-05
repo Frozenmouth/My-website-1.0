@@ -1,0 +1,11 @@
+<!DOCTYPE>
+<html>
+<head> <title> hello </title> </head>
+<body> <h1> H E L L O  W O R L D </h1>
+<p> It's clear for everyone that dota is my favorite game </p>
+<p> I am currently trying to get rid of it tho in order to do productive things in my life such as coding programming websites :) </p>
+<p> This is my first work ever btw. Also take a look at Spectre, my favorite character in the game : </p>
+<img src="https://steamcommunity-a.akamaihd.net/economy/image/W_I_5GLm4wPcv9jJQ7z7tz_l_0sEIYUhRfbF4arNQkgGQGKd3kMuVpY7Dw1D7xi1ZUKC0ulDeazKCg83DpnsS0WxC6mE1Vu0S8ROddp2BmMW3Y2x2B59F3KVUONKZ4x6_82WzAPrDFWZfGdozt8IivaY05OAXvXVqRLmIQEm0LVoDpQVmhxXajs4wWB8N_EjCvx5Zf4/490fx326f">
+<p>here is my <a href="https://fr.dotabuff.com/players/117163356">Dotabuff</a></p>
+<p>You can also follow me on my <a href="https://www.last.fm/fr/user/MoveYaAss"> Lastfm</a> to figure what kind of music I listen to when I'm busy slaying noobs </p>
+</body>
