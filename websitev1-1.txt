@@ -1,0 +1,39 @@
+<!DOCTYPE>
+<html>
+<head> <title> hello </title> </head>
+<body style="background-color:brown"> <h1 style="text-align: center;font-size:40px"> H E L L O  W O R L D </h1>
+<p style="text-align:center"> It's clear for everyone that dota is my favorite game </p>
+<p style="text-align:center"> I am currently trying to get rid of it tho in order to do productive things in my life such as coding programming websites :) </p>
+<p style="text-align:center"> This is my first work ever btw. Also take a look at Spectre, my favorite character in the game : </p>
+<img src="https://steamcommunity-a.akamaihd.net/economy/image/W_I_5GLm4wPcv9jJQ7z7tz_l_0sEIYUhRfbF4arNQkgGQGKd3kMuVpY7Dw1D7xi1ZUKC0ulDeazKCg83DpnsS0WxC6mE1Vu0S8ROddp2BmMW3Y2x2B59F3KVUONKZ4x6_82WzAPrDFWZfGdozt8IivaY05OAXvXVqRLmIQEm0LVoDpQVmhxXajs4wWB8N_EjCvx5Zf4/490fx326f">
+<p style="text-align:left">here is my <a href="https://fr.dotabuff.com/players/117163356">Dotabuff</a></p>
+<p style="text-align:left">You can also follow me on my <a href="https://www.last.fm/fr/user/MoveYaAss"> Lastfm</a> to figure what kind of music I listen to when I'm busy slaying noobs </p>
+<p>As I have absolutely no idea what to write yet I took the decision to display here everything I learn in the process of making a trendy, fashionable website. Let's get started!</p>
+<h2 style="color:aqua;font-size:20px;text-align:center"> All time favorite Dota 2 heroes top 3 </h2>
+		<ol style="background-color: coral">
+		<li> Spectre </li>
+		<li> Anti-Mage </li>
+            <li> Queen of Pain </li></ol>
+<p style="text-align:left">Woohoo, I can make organized lists! But guess what, unorganized lists have no secrets for me as well :) </p>
+           <h3 style="color:aqua;font-size:20px;text-align:center">Currently watching on Netflix</h3> <ul style="background-color: darkseagreen">
+	<li>The Defiant ones </li>
+	<li>Take your pills</li>
+	<li>Weeds </li></ul>
+            <img src="https://i.ytimg.com/vi/2dkN0YIBjEM/maxresdefault.jpg"><p>Yo dawg, I heard you like lists, so we put a list in yo list so you can list things while you list things!</p><ol>
+			<li>What I like in programming
+				<ul>
+					<li>the nice feeling of learning</li>
+					<li>there is always something new to figure out and experiment!</li>
+				</ul>
+			</li>
+			<li>What I dislike in programming
+				<ul>
+					<li>Dealing with MacOS/Linux is super hard at the beginning when you're used to Win10</li>
+                    <li>(Apart from the difficulty of diving into it I don't see any other cons but I had to make a 2nd point to have a nice, symetric list anyway)</li></ul>
+                		<p style = "font-size:10px"> Now I can change the font size </p>
+		<p style = "font-size:20px"> Impressive, right? </p>
+		<p style = "font-size:40px"> a small step for man, a giant leap for mankind</p>
+                <p style="color:darkorange">This page lacks a bit of color, right? I'll make sure to fix that issue in the future :) </p>
+                <p style="font-family:sans-serif"><strong>Font changes = learned! I can even write <b>bold</b> words to catch <em>eyesight</em> now. Now, let's put a coloured background.</strong></p>
+                <p style="font-family: sans-serif"><strong>Still meh yet the page looks less empty (which is quite a good thing I guess!). I managed to clean the page a little bit to make it less painful to watch because sincerely, it is really messed up for the moment. Don't you worry about it, I'll work on that to eventually code fashionable, well designed websites I believe. </strong></p>
+</body>
